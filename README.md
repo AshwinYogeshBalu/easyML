@@ -53,7 +53,7 @@ In this module, we have integrated all the other 4 machine learning modules toge
 The MODEL () function does everything to you. It identifies the type of problem and runs all the algorithms present for that type of problem with the best hyperparameters. It also prints the result of all the models that ran.
 
 
-## Usage
+## Usage :
 The user has the flexibility of choosing which algorithm to run. For eg: Let’s assume, we have to model classification problem of breast cancer. The user just uses the DECISION_TREE module  from the containers folder and the run_model method models the data. Similarly, the user can utilize the individual modules separately, if they are clear with the model of their choice. The images below shows the usage of all the 4 machine learning modules used separately separately. However, if the user just wants to run all the models that could fit for their dataset, they could use the ML_MODEL module from the containers folder. The image below shows the usage.
 
 ## Discussion :
